@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":170:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:48:"Tests\WeatherTest::testGetWeatherWithInvalidType";d:0.012;s:50:"Tests\WeatherTest::testGetWeatherWithInvalidFormat";d:0;}}}
